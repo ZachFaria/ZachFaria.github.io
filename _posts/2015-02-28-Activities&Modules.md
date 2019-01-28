@@ -27,4 +27,4 @@ throughout this semester have further enhanced my learning in the field of compu
 9. Fish Tank
 10. Micro:bit
 
-Github Repo for Website: https://github.com/ZachFaria/ZachFaria.github.io
+Github Repo for Website: [https://github.com/ZachFaria/ZachFaria.github.io](https://github.com/ZachFaria/ZachFaria.github.io)
