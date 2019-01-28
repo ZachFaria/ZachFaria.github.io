@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Activities/Modules
+subtitle: What I have done over the semester
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [work]
